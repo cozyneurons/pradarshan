@@ -1,3 +1,4 @@
+Hello
 # Personal Portfolio
 
 A modern, responsive personal portfolio built with React, Vite, and Framer Motion. 
